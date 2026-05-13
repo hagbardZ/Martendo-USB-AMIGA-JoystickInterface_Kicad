@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
+          "drill": 0.0,
           "height": 1.27,
-          "width": 2.54
+          "width": 1.27
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -127,7 +127,7 @@
         "max_error": 0.005,
         "min_clearance": 0.1,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.025,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -630,12 +630,12 @@
       {
         "filename": "USB-DB9_Adapter.kicad_sch",
         "name": "",
-        "uuid": "6de3c2d8-1d55-4cff-8f35-733e1482c369"
+        "uuid": "f2645e9d-12b3-42e3-9f8b-d6e6ffb58722"
       },
       {
         "filename": "USB-DB9_Adapter_1.kicad_sch",
         "name": "USB-DB9_Adapter_1",
-        "uuid": "1ca004d4-06ab-43a8-9db4-54d0c684d4b0"
+        "uuid": "273936a0-7187-42f0-b0db-bf0283ff7694"
       }
     ],
     "used_designators": "",
@@ -643,11 +643,11 @@
   },
   "sheets": [
     [
-      "6de3c2d8-1d55-4cff-8f35-733e1482c369",
+      "f2645e9d-12b3-42e3-9f8b-d6e6ffb58722",
       ""
     ],
     [
-      "1ca004d4-06ab-43a8-9db4-54d0c684d4b0",
+      "273936a0-7187-42f0-b0db-bf0283ff7694",
       "USB-DB9_Adapter_1"
     ]
   ],
