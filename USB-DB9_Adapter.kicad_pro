@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
+          "drill": 0.8,
           "height": 1.27,
-          "width": 1.27
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -127,7 +143,7 @@
         "max_error": 0.005,
         "min_clearance": 0.1,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.2,
+        "min_copper_edge_clearance": 0.025,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -489,7 +505,7 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "tuning_profile": "",
@@ -629,13 +645,8 @@
     "top_level_sheets": [
       {
         "filename": "USB-DB9_Adapter.kicad_sch",
-        "name": "",
-        "uuid": "f2645e9d-12b3-42e3-9f8b-d6e6ffb58722"
-      },
-      {
-        "filename": "USB-DB9_Adapter_1.kicad_sch",
         "name": "USB-DB9_Adapter_1",
-        "uuid": "273936a0-7187-42f0-b0db-bf0283ff7694"
+        "uuid": "1e86ade7-8cac-4e19-889b-22c06d45d686"
       }
     ],
     "used_designators": "",
@@ -643,11 +654,7 @@
   },
   "sheets": [
     [
-      "f2645e9d-12b3-42e3-9f8b-d6e6ffb58722",
-      ""
-    ],
-    [
-      "273936a0-7187-42f0-b0db-bf0283ff7694",
+      "1e86ade7-8cac-4e19-889b-22c06d45d686",
       "USB-DB9_Adapter_1"
     ]
   ],
