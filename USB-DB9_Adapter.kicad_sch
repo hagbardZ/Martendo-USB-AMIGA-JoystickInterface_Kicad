@@ -6592,6 +6592,16 @@
 		)
 		(uuid "4bb7b34b-1c4a-4774-8e1b-8cb56daa82d3")
 	)
+	(label "UP"
+		(at 170.18 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c9dca63-ac96-4523-9758-39fbe9b52d79")
+	)
 	(label "BUTTON3"
 		(at 276.86 180.34 0)
 		(effects
