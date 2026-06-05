@@ -1,7 +1,12 @@
-<img width="4032" height="3024" alt="2020_0101_004633_042" src="https://github.com/user-attachments/assets/22c95e79-ff75-4569-b6b8-abc789f9d770" />
 <img width="1712" height="1040" alt="USB-DB9_Adapter" src="https://github.com/user-attachments/assets/42e7d678-b3e1-4246-8d5c-7622489cb77e" />
 
-![Uploading 2020_0101_004633_042.JPG…]()
 
-<img width="4032" height="3024" alt="2020_0101_002416_042" src="https://github.com/user-attachments/assets/2db8be01-562e-43a8-ae47-3660062e1486" />
+Pictures from the first working self soldered prototype:
+
+<img width="4032" height="3024" alt="2020_0101_002416_042" src="https://github.com/user-attachments/assets/c41406e0-5ec7-4a46-9700-382f3b8a2a13" />
+
+<img width="4032" height="3024" alt="2020_0101_004633_042" src="https://github.com/user-attachments/assets/9d7689f0-6623-4c6b-9f6b-8fc283912fe9" />
+
+
+
 
