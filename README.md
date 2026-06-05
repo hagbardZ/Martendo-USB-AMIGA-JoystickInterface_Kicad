@@ -3,7 +3,7 @@
 
 Pictures from the first working self soldered prototype:
 
-<img width="4032" height="3024" alt="2020_0101_002416_042" src="https://github.com/user-attachments/assets/c41406e0-5ec7-4a46-9700-382f3b8a2a13" />
+<img width="800" height="800" alt="2020_0101_002416_042" src="https://github.com/user-attachments/assets/c41406e0-5ec7-4a46-9700-382f3b8a2a13" />
 
 <img width="4032" height="3024" alt="2020_0101_004633_042" src="https://github.com/user-attachments/assets/9d7689f0-6623-4c6b-9f6b-8fc283912fe9" />
 
