@@ -1,7 +1,7 @@
 <img width="1712" height="1040" alt="USB-DB9_Adapter" src="https://github.com/user-attachments/assets/42e7d678-b3e1-4246-8d5c-7622489cb77e" />
 
 
-Pictures from the first working self soldered prototype:
+Pictures from the first working pizza ofen soldered prototype:
 
 <img width="800" height="800" alt="2020_0101_002416_042" src="https://github.com/user-attachments/assets/c41406e0-5ec7-4a46-9700-382f3b8a2a13" />
 
